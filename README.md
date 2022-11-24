@@ -1,2 +1,2 @@
-# git_
+# git_practice
 for git practice
